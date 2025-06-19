@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Models and logs
+*.pkl
+*.log
+
+# Data files
+*.csv
+
+# Environment variables
+.env
